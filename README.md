@@ -1,2 +1,5 @@
 # seed-mill
-Lightweight OCaml utilities and helpers (seed-mill)
+
+Lightweight `OCaml` utilities maintained by @kuro5wave.
+
+- Focus: Building practical automation for small engineering teams.
